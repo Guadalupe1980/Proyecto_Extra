@@ -1,0 +1,98 @@
+{
+  "dashboard": {
+    "title": "Social Media Dashboard",
+    "totalFollowers": 23004
+  },
+  "socialCards": [
+    {
+      "platform": "facebook",
+      "handle": "@nathanf",
+      "count": 1987,
+      "countLabel": "Followers",
+      "todayChange": 12,
+      "isUp": true
+    },
+    {
+      "platform": "twitter",
+      "handle": "@nathanf",
+      "count": 1044,
+      "countLabel": "Followers",
+      "todayChange": 99,
+      "isUp": true
+    },
+    {
+      "platform": "instagram",
+      "handle": "@realnathanf",
+      "count": "11k",
+      "countLabel": "Followers",
+      "todayChange": 1099,
+      "isUp": true
+    },
+    {
+      "platform": "youtube",
+      "handle": "Nathan F.",
+      "count": 8239,
+      "countLabel": "Subscribers",
+      "todayChange": 144,
+      "isUp": false
+    }
+  ],
+  "overview": [
+    {
+      "platform": "facebook",
+      "metric": "Page Views",
+      "value": 87,
+      "change": 3,
+      "isUp": true
+    },
+    {
+      "platform": "facebook",
+      "metric": "Likes",
+      "value": 52,
+      "change": 2,
+      "isUp": false
+    },
+    {
+      "platform": "instagram",
+      "metric": "Likes",
+      "value": 5462,
+      "change": 2257,
+      "isUp": true
+    },
+    {
+      "platform": "instagram",
+      "metric": "Profile Views",
+      "value": "52k",
+      "change": 1375,
+      "isUp": true
+    },
+    {
+      "platform": "twitter",
+      "metric": "Retweets",
+      "value": 117,
+      "change": 303,
+      "isUp": true
+    },
+    {
+      "platform": "twitter",
+      "metric": "Likes",
+      "value": 507,
+      "change": 553,
+      "isUp": true
+    },
+    {
+      "platform": "youtube",
+      "metric": "Likes",
+      "value": 107,
+      "change": 19,
+      "isUp": false
+    },
+    {
+      "platform": "youtube",
+      "metric": "Total Views",
+      "value": 1407,
+      "change": 12,
+      "isUp": false
+    }
+  ]
+}
